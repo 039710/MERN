@@ -1,0 +1,4 @@
+{
+  "mongoURI" : "mongodb+srv://mustain:mustain@cluster0.5ndwp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret" : "SECRET"
+}
